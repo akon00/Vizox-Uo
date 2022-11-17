@@ -1,0 +1,72 @@
+{
+  "y": "<:GreenCheck:953157963525283870>",
+  "m": "<a:a_info:954249339243462696>",
+  "x": "<:Cross:953158094022668338>",
+  "arrow": "",
+    "help":{
+    "cate": "<a:a_b_badge:953908196051927080>",
+    "info": "<a:a_info:954249339243462696>",
+    "music": "<a:a1_music:962663383923048478>",
+    "setup": "<a:a_discord:953908584985559040>",
+    "mod": "<:Admin:953183698176581684>",
+    "rank": "<:Rocket:954246762749644812>",
+    "fun": "😛",
+    "game": "<a:a_games:953183400838201364>",
+    "giveaway": "<a:a_Gift:953697567244427295>",
+    "ticket": "🎟️",
+    "utility": "<:school1:954251695788011560>",
+    "report": "<:application:954276352746471444>"
+  },
+  "p_react":{
+    "view": "946722714050236438",
+    "info": "954249339243462696",
+    "music": "962663383923048478",
+    "setup": "953908584985559040",
+    "mod": "953183698176581684",
+    "rank": "954246762749644812",
+    "fun": "😛",
+    "game": "953183400838201364",
+    "giveaway": "953697567244427295",
+    "ticket": "🎟️",
+    "utility": "954251695788011560",
+    "report": "954276352746471444"
+  },
+  "music": {
+    "searching": "<a:a_channel:954249915763150869>",
+    "play": "<a:a_play:954247759848964116>",
+    "playImg": "https://images-ext-1.discordapp.net/external/DkPCBVBHBDJC8xHHCF2G7-rJXnTwj_qs78udThL8Cy0/%3Fv%3D1/https/cdn.discordapp.com/emojis/859459305152708630.gif",
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "stop": "⏹",
+    "volume": "🔊",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "addrelatedsong": "<:GreenCheck:953157963525283870>",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "musicButtons": {
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "lyrics": "📝",
+    "stop": "⏹",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "giveaway": {
+    "react": "<a:a_giveaway:953697672823468042>",
+    "drop": "<a:a_Gift:953697567244427295>"
+  }
+}
